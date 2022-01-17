@@ -1,0 +1,165 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "where the fuck am i"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "who are you"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "john",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "no who the fuck are you"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "beep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "do i look like i need your power"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "john",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "im gonna fuck u up bro"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep bep skdop"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "confused",
+			"text": "id like to see you TRY you DUMB NERD!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hi guys its me girlfriend from friday night depression"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "shut the fuck up girlfriend youre not in this mod"
+		},
+		{
+			"speed": 0.015,
+			"portrait": "gf",
+			"boxState": "angry",
+			"expression": "confused",
+			"text": "fuck all of you modders i always get deleted\\nwhy cant i play a part in the lore fuck all of you fuck my life i want to die aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa i bet ur reading this text by going inside of the songs dialogue file fuck u also Christmax doesnt deserve credit cus he didnt actually do shit lol (christmax can suck my fat juicy ballsack) ALSO YOU OWE ME 10 BUCKS - skata"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "john",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "who the fuck is this girlfriend idiot and why am i not getting the most dialogue"
+		},
+		{
+			"speed": 0.045,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "its because youre DUMB and you're the NERDY character in this mod!!"
+		},
+		{
+			"speed": 0.04,
+			"portrait": "john",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "oh"
+		},
+		{
+			"speed": 0.035,
+			"portrait": "john",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "im sad now"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "coolswag"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "john",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "fuck you"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "demon",
+			"text": "start the song you dipshit dumbass dilfy deadbeat dumbbell ass lookin swiney swine"
+		},
+		{
+			"speed": 0.03,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "woah woah chill out pissbaby"
+		},
+		{
+			"speed": 0.03,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "ur mad that u havent scratched ur balls before"
+		},
+		{
+			"speed": 0.035,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "fuck you"
+		},
+		{
+			"speed": 0.02,
+			"portrait": "john",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "what she said"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "no"
+		}
+	]
+}

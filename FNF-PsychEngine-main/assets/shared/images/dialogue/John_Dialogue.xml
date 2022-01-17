@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="John_Dialogue.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="john talk0000" x="654" y="266" width="327" height="266"/>
+	<SubTexture name="john talk0001" x="981" y="266" width="327" height="266"/>
+	<SubTexture name="john talk0002" x="1308" y="266" width="327" height="266"/>
+	<SubTexture name="john talk0003" x="1635" y="266" width="327" height="266"/>
+	<SubTexture name="john talk0004" x="0" y="532" width="327" height="266"/>
+	<SubTexture name="john talk0005" x="327" y="532" width="327" height="266"/>
+	<SubTexture name="john talk0006" x="654" y="532" width="327" height="266"/>
+	<SubTexture name="john talk0007" x="981" y="532" width="327" height="266"/>
+	<SubTexture name="john talk0008" x="1308" y="532" width="327" height="266"/>
+</TextureAtlas>
