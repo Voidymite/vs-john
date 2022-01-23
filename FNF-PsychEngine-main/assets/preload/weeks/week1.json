@@ -1,32 +1,50 @@
 {
+	"storyName": "planet mars",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "philly",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"john",
+		"gf",
+		"bf"
+	],
 	"songs": [
 		[
 			"Do Not Disturb",
-			"Whereabouts",
+			"john",
 			"john",
 			[
 				0,
 				0,
 				0
 			]
+		],
+		[
+			"Whereabouts",
+			"john",
+			[
+				0,
+				0,
+				193
+			]
+		],
+		[
+			"Far OUt",
+			"john",
+			[
+				255,
+				0,
+				0
+			]
 		]
 	],
-	"hideFreeplay": false,
-	"weekBackground": "",
-	"difficulties": "",
-	"weekCharacters": [
-		"john",
-		"bf",
-		""
-	],
-	"storyName": "planet mars",
-	"weekName": "Custom Week",
-	"freeplayColor": [
-		146,
-		113,
-		253
-	],
 	"hideStoryMode": false,
-	"weekBefore": "tutorial",
-	"startUnlocked": true
+	"weekName": ""
 }
